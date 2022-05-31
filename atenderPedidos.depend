@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1653955106 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\atenderpedidos\main.c
+	"main.h"
+
+1653932408 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\atenderpedidos\coladinamica.c
+	"cola.h"
+
+1653930253 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\atenderpedidos\cola.h
+	<stdio.h>
+	<stdlib.h>
+	"utilitarios.h"
+
+1653946578 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\atenderpedidos\utilitarios.h
+	<memory.h>
+
+1653955548 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\atenderpedidos\lista.c
+	"lista.h"
+
+1653941432 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\atenderpedidos\lista.h
+	<stdio.h>
+	<stdlib.h>
+	"utilitarios.h"
+
+1653954270 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\modelos de parcial\atenderpedidos\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"lista.h"
+
